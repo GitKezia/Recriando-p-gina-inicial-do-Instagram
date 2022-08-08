@@ -1,2 +1,2 @@
-# Recriando-p-gina-inicial-do-Instagram
+# Recriando-página-inicial-do-Instagram
 DIO DESAFIO DE PROJETO
